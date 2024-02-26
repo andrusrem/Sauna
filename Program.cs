@@ -1,7 +1,17 @@
+using Microsoft.EntityFrameworkCore;
+using Microsoft.AspNetCore.Razor;
+using Microsoft.Extensions.DependencyInjection;
+using Sauna.Data;
+
+
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddRazorPages();
+
+builder.Services.AddDbContext<SaunaContext>(options =>
+    options.UseSqlite(builder.Configuration.GetConnectionString("SaunaContextSQLite")));
 
 var app = builder.Build();
 
@@ -23,3 +33,4 @@ app.UseAuthorization();
 app.MapRazorPages();
 
 app.Run();
+

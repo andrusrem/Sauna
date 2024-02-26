@@ -20,3 +20,10 @@ rad.json
 *.flf
 #Test results file
 TestResults.xml
+#Migration files
+Migrations
+#
+bin/Debug/net7.0
+
+obj
+
