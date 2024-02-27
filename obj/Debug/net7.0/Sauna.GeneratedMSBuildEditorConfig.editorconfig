@@ -16,12 +16,72 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = /Users/andrusremets/Desktop/MeatWebSite/Sauna
 build_property._RazorSourceGeneratorDebug = 
 
+[/Users/andrusremets/Desktop/MeatWebSite/Sauna/Pages/BookedTimes/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQm9va2VkVGltZXMvQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/andrusremets/Desktop/MeatWebSite/Sauna/Pages/BookedTimes/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQm9va2VkVGltZXMvRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/andrusremets/Desktop/MeatWebSite/Sauna/Pages/BookedTimes/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQm9va2VkVGltZXMvRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/andrusremets/Desktop/MeatWebSite/Sauna/Pages/BookedTimes/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQm9va2VkVGltZXMvRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/andrusremets/Desktop/MeatWebSite/Sauna/Pages/BookedTimes/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQm9va2VkVGltZXMvSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/andrusremets/Desktop/MeatWebSite/Sauna/Pages/Customers/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ3VzdG9tZXJzL0NyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/andrusremets/Desktop/MeatWebSite/Sauna/Pages/Customers/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ3VzdG9tZXJzL0RlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/andrusremets/Desktop/MeatWebSite/Sauna/Pages/Customers/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ3VzdG9tZXJzL0RldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/andrusremets/Desktop/MeatWebSite/Sauna/Pages/Customers/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ3VzdG9tZXJzL0VkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/andrusremets/Desktop/MeatWebSite/Sauna/Pages/Customers/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ3VzdG9tZXJzL0luZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [/Users/andrusremets/Desktop/MeatWebSite/Sauna/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [/Users/andrusremets/Desktop/MeatWebSite/Sauna/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/andrusremets/Desktop/MeatWebSite/Sauna/Pages/Orders/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvT3JkZXJzL0NyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/andrusremets/Desktop/MeatWebSite/Sauna/Pages/Orders/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvT3JkZXJzL0RlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/andrusremets/Desktop/MeatWebSite/Sauna/Pages/Orders/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvT3JkZXJzL0RldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/andrusremets/Desktop/MeatWebSite/Sauna/Pages/Orders/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvT3JkZXJzL0VkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/andrusremets/Desktop/MeatWebSite/Sauna/Pages/Orders/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvT3JkZXJzL0luZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [/Users/andrusremets/Desktop/MeatWebSite/Sauna/Pages/Privacy.cshtml]

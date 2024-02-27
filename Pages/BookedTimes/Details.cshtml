@@ -1,0 +1,31 @@
+@page
+@model Sauna.Pages.BookedTimes.DetailsModel
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Details</h1>
+
+<div>
+    <h4>BookedTime</h4>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.BookedTime.ChoosedTime)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.BookedTime.ChoosedTime)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.BookedTime.CustomerId)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.BookedTime.CustomerId)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-page="./Edit" asp-route-id="@Model.BookedTime?.Id">Edit</a> |
+    <a asp-page="./Index">Back to List</a>
+</div>
